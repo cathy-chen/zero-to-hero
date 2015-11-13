@@ -6,3 +6,5 @@ In the resources folder, you will find the slides from today, as well as any mis
 The other portion of this repository will be the Github Pages (gh-pages) branch, which will serve as a basis for our Bootstrap portion.
 
 If you have any questions before or after the workshop, feel free to contact me at *cathy@hackwestern.com*. 
+
+You can check out the one page site that we created at http://cathy-chen.github.io/zero-to-hero. 
